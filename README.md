@@ -1,6 +1,10 @@
 # Correlation and regression for data analysis
 
 # Date : 26.10.2024
+
+# Name:SATHISH.B
+
+# Register No:24900077
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
